@@ -1,2 +1,2 @@
 # AdventOfCyber
-My solutions to the Advent of Cyber across various years
+My solutions to TryHackMe's annual Advent of Cyber Event
