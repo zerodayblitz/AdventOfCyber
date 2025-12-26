@@ -1,4 +1,4 @@
-## Day 9 - Passwords - A Cracking Christmas
+# Day 9 - Passwords - A Cracking Christmas
 ## Overview
 Day 9 focused on introducing password-based encryption, dictionary and brute-force attacks, and the importance of strength in password protection. 
 ## Objective and What I Did
