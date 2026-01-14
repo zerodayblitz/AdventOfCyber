@@ -1,37 +1,36 @@
-# TryHackMe - AdventOfCyber
+# 🛡️ TryHackMe - Advent of Cyber
 
-My write-ups for TryHackMe's annual Advent of Cyber event.
+My walkthroughs of all years of TryHackMe's Advent of Cyber as I master cybersecurity and enhance my technical abilities.
 
-## About
+## 📊 Progress Tracker
 
-This repository contains my solutions and general writeups for each day of TryHackMe's Advent of Cyber challenges. Each year features 25 days of hands-on cybersecurity tasks covering topics like:
+| Year | Rooms | Security Tools | Status |
+|------|---------|-----------------|--------|
+| 2019 | 0/24 |  | ⏳ Not Started
+| 2020 | 0/24 |  | ⏳ Not Started 
+| 2021 | 0/24 |  | ⏳ Not Started
+| 2022 | 0/24 |  | ⏳ Not Started
+| 2023 | 1/24 |  | 🔄 In Progress
+| 2024 | 0/24 |  | ⏳ Not Started
+| 2025 | 24/24 | Nmap, Splunk, XSS, John the Ripper, Windows Registry, and more | ✅ Completed
 
-- Web application security
-- Network analysis and packet inspection
-- SIEM and log analysis
-- Password cracking and cryptography
-- Malware analysis
-- Digital forensics
-- Threat detection and incident response
+**Total Progress**: 25/168 rooms (0.15%)
 
-## Structure
-```
-AdventOfCyber/
-├── 2025/
-│   ├── Day-01/
-│   ├── Day-02/
-│   └── ...
-```
+## 📚 Key Concepts Learned
 
-Each day's folder contains:
-- Brief walkthroughs and explanations
-- Commands and tools used
-- Key takeaways
+### Software Security
+- Input sanitization (XSS and IDOR prevention)
+- Code obfuscation techniques
+- Container security best practices
 
-## Disclaimer
+### Access Control & Authorization
+- IDOR vulnerabilities
+- Privilege escalation via Docker sockets
+- AWS IAM (users, groups, roles, policies)
+- Active Directory
 
-These writeups are for educational purposes. Please attempt the challenges yourself before referring to solutions.
-
----
-
-**TryHackMe Profile:** [zerodayblitz](https://tryhackme.com/p/zerodayblitz)  
+### Theoretical Knowledge
+- Social Engineering (Phishing, Pretexting, Vishing)
+- Security frameworks (NIST, ISO 27001)
+- GDPR/HIPAA considerations
+- Risk analysis
